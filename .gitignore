@@ -1,0 +1,5 @@
+*.html
+__pycache__/
+session_reports/
+.ipynb_checkpoints/
+archive/
